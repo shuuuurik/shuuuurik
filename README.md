@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Mayorov Alexander's GitHub stats](https://github-readme-stats.vercel.app/api?username=shuuuurik&show_icons=true&hide=issues&show=prs_merged_percentage&theme=onedark)
+
 <!--
 **shuuuurik/shuuuurik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
