@@ -1,8 +1,9 @@
 ## Hi there 👋
 
-![Mayorov Alexander's GitHub stats](https://github-readme-stats.vercel.app/api?username=shuuuurik&show_icons=true&hide=issues&show=prs_merged_percentage&theme=onedark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shuuuurik&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: flex; justify-content: space-between; width: 100%">
+  <img width="63%" src="https://github-readme-stats.vercel.app/api?username=shuuuurik&show_icons=true&hide=issues&theme=onedark&rank_icon=github">
+  <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuuuurik&layout=compact&langs_count=8&theme=onedark" style="max-height: 100p;">
+</div>
 
 <!--
 **shuuuurik/shuuuurik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
