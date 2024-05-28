@@ -5,6 +5,10 @@
   <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuuuurik&layout=compact&langs_count=8&theme=onedark" style="max-height: 100p;">
 </div>
 
+----
+## 🏆 GitHub Profile Trophy
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=shuuuurik&theme=onedark&title=MultiLanguage,PullRequest,Repositories,Commits,Stars,Experience,Followers">
+
 <!--
 **shuuuurik/shuuuurik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
