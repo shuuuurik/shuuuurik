@@ -1,13 +1,24 @@
-## Hi there 👋
+<p style="margin-bottom: 50px;">
+  <h2 align="center">Hi there 
+    <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="24" width="24">
+    <br/>
+    My name is 
+    <a href="https://vk.com/i_lovefrogs" target="_blank">
+      Alexander Mayorov
+    </a> 
+  </h2>
+</p>
 
+----
+## 📊 My Stats
 <div style="display: flex; justify-content: space-between; width: 100%">
-  <img width="63%" src="https://github-readme-stats.vercel.app/api?username=shuuuurik&show_icons=true&hide=issues&theme=onedark&rank_icon=github">
-  <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuuuurik&layout=compact&langs_count=8&theme=onedark" style="max-height: 100p;">
+  <img width="63%" src="https://github-readme-stats.vercel.app/api?username=shuuuurik&show_icons=true&hide=issues&theme=onedark&rank_icon=github&hide_border=true">
+  <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuuuurik&layout=compact&langs_count=8&theme=onedark&hide_border=true">
 </div>
 
 ----
 ## 🏆 GitHub Profile Trophy
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=shuuuurik&theme=onedark&title=MultiLanguage,PullRequest,Repositories,Commits,Stars,Experience,Followers">
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=shuuuurik&theme=onedark&title=MultiLanguage,PullRequest,Repositories,Commits,Stars,Experience,Followers&no-frame=true">
 
 <!--
 **shuuuurik/shuuuurik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
