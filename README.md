@@ -20,6 +20,10 @@
 ## 🏆 GitHub Profile Trophy
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=shuuuurik&theme=onedark&title=MultiLanguage,PullRequest,Repositories,Commits,Stars,Experience,Followers&no-frame=true">
 
+----
+## ⭐ LeetCode Stats
+<img src="https://leetcard.jacoblin.cool/shuuuurik?theme=dark&border=0&radius=20">
+
 <!--
 **shuuuurik/shuuuurik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
