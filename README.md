@@ -9,6 +9,15 @@
   </h2>
 </p>
 
+<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
+
+### ***About me:***
+* :computer: C#/.NET Developer
+
+* :mag: See my CV at [hh.ru](http://yaroslavl.hh.ru/resume/b4c94e28ff0d15790f0039ed1f43624d6c7774)
+
+* 🌱 I’m currently learning Data Structures and Algorithms, advanced C# and SQL
+
 ----
 ## 📊 My Stats
 <div style="display: flex; justify-content: space-between; width: 100%">
