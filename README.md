@@ -16,9 +16,9 @@
 
 * :mag: See my CV at [hh.ru](http://yaroslavl.hh.ru/resume/b4c94e28ff0d15790f0039ed1f43624d6c7774)
 
-* 🎓 I'm currently studying Master’s degree programme in Software Engineering at the ITMO University
+* 🎓 ITMO Master student | Software Engineering
 
-* 🧠 I’m currently learning Data Structures and Algorithms, C++, Haskell, Machine Learning and SQL
+* 🧠 I’m currently learning Data Structures and Algorithms, C++, Haskell, Java
 
 ### Skills
 <p align="left">
